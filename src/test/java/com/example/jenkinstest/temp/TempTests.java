@@ -14,6 +14,6 @@ public class TempTests {
 
         String str = list.get(0);
 
-        System.out.println(str);
+        System.out.println(str + str);
     }
 }
