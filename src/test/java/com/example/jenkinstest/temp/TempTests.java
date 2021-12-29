@@ -18,8 +18,5 @@ public class TempTests {
 
         System.out.println(list);
         System.out.println(list);
-        System.out.println(list);
-        System.out.println(list);
-        System.out.println(list);
     }
 }
